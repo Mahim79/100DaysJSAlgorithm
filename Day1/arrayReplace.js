@@ -10,5 +10,5 @@ function replaceArray(inputArray,elementToReplace,subtractionElement){
     })
 }
 
-replaceArray(inputArray,1,3)
+replaceArray(inputArray,1,3) 
 console.log(inputArray);
